@@ -1,0 +1,3 @@
+CLIENT ID	e5b4b2ab68c24624a99bad2c813b513f
+SUPPORT EMAIL	professor_alessandro@hotmail.com
+CLIENT STATUS	Sandbox Mode
